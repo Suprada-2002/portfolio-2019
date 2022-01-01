@@ -156,12 +156,8 @@ function ProjectPage() {
                 Heao Sort
               </p>
 
-              <a href="https://github.com/Suprada-2002/sortify" target="_blank">
-                Code
-              </a>
-              <a href="https://suprada-2002.github.io/sortify/" target="_blank">
-                View Live
-              </a>
+              <a href="https://github.com/Suprada-2002/sortify">Code</a>
+              <a href="https://suprada-2002.github.io/sortify/">View Live</a>
             </div>
           </div>
         </div>
@@ -176,15 +172,10 @@ function ProjectPage() {
               <h3>Crypto Currency Tracker</h3>
               <p>This is a web app for tracking prices of crypto curriences.</p>
               <div className="code-link">
-                <a
-                  href="https://github.com/Suprada-2002/crypto-currency-tracker"
-                  target="_blank"
-                >
+                <a href="https://github.com/Suprada-2002/crypto-currency-tracker">
                   Code
                 </a>
-                <a href="https://coin-tracker-app.netlify.app/" target="_blank">
-                  View Live
-                </a>
+                <a href="https://coin-tracker-app.netlify.app/">View Live</a>
               </div>
             </div>
           </div>
@@ -202,13 +193,8 @@ function ProjectPage() {
                 This is a simple weather app, made using vanila js, html and css
               </p>
               <div className="code-link">
-                <a
-                  href="https://github.com/Suprada-2002/Weather-App"
-                  target="_blank"
-                >
-                  Code
-                </a>
-                <a href="#" target="_blank">
+                <a href="https://github.com/Suprada-2002/Weather-App">Code</a>
+                <a href="https://suprada-2002.github.io/Weather-App/">
                   View Live
                 </a>
               </div>
@@ -226,16 +212,10 @@ function ProjectPage() {
               <h3>Responsive Coffee Website</h3>
               <p>This is a responsive website design, made using nextjs.</p>
               <div className="code-link">
-                <a
-                  href="https://github.com/Suprada-2002/responsive_coffee_website"
-                  target="_blank"
-                >
+                <a href="https://github.com/Suprada-2002/responsive_coffee_website">
                   Code
                 </a>
-                <a
-                  href="https://suprada-2002.github.io/responsive_coffee_website/"
-                  target="_blank"
-                >
+                <a href="https://suprada-2002.github.io/responsive_coffee_website/">
                   View Live
                 </a>
               </div>
@@ -244,7 +224,7 @@ function ProjectPage() {
         </div>
 
         <Footer>
-          <a href="https://github.com/Suprada-2002" target="_blank">
+          <a href="https://github.com/Suprada-2002">
             For more project check out my github profile <FaAngleDoubleRight />
           </a>
         </Footer>

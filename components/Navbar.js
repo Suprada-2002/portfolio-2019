@@ -1,5 +1,6 @@
 import { Container } from "../styles/NavbarStyle";
 import Head from "next/head";
+import Link from "next/link";
 
 function Navbar() {
   return (
@@ -10,25 +11,25 @@ function Navbar() {
       </Head>
       <Container>
         <header>
-          <h1 class="logo">Suprada</h1>
-          <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+          <h1 className="logo">Suprada</h1>
+          <input type="checkbox" id="nav-toggle" className="nav-toggle" />
           <nav>
             <ul>
               <li>
-                <a href="/homepage">Home</a>
+                <Link href="/homepage">Home</Link>
               </li>
               <li>
-                <a href="/aboutpage">About</a>
+                <Link href="/aboutpage">About</Link>
               </li>
               <li>
-                <a href="/projectpage">Projects</a>
+                <Link href="/projectpage">Projects</Link>
               </li>
               <li>
-                <a href="/contactpage">Contact</a>
+                <Link href="/contactpage">Contact</Link>
               </li>
             </ul>
           </nav>
-          <label for="nav-toggle" class="nav-toggle-label">
+          <label htmlFor="nav-toggle" className="nav-toggle-label">
             <span></span>
           </label>
         </header>

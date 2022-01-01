@@ -63,18 +63,15 @@ function Contact() {
         <p>Get in touch with me</p>
 
         <div className="social_icon">
-          <a href="https://github.com/Suprada-2002" target="_blank">
+          <a href="https://github.com/Suprada-2002">
             <FaGithubAlt className="icon" />
           </a>
 
-          <a
-            href="https://www.linkedin.com/in/suprada-tripathy-2981a1201/"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/suprada-tripathy-2981a1201/">
             <FaLinkedinIn className="icon" />
           </a>
 
-          <a href="supradatripathy789@gmail.com" target="_blank">
+          <a href="supradatripathy789@gmail.com">
             <FaEnvelope className="icon" />
           </a>
         </div>

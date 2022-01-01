@@ -80,7 +80,7 @@ function About() {
             intercative web apps and responsive design. With every line of code
             I strive to make web a beautiful place.
           </p>
-          <a className="link" href="#" target="_blank">
+          <a className="link" href="#">
             More about me <FaChevronRight className="icon" />
           </a>
         </div>

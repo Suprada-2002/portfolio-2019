@@ -86,16 +86,13 @@ const contactpage = () => {
       <Wrapper>
         <div className="container">
           <div className="left">
-            <a href="https://github.com/Suprada-2002" target="_blank">
+            <a href="https://github.com/Suprada-2002">
               <FaGithubAlt size={50} />
             </a>
-            <a href="supradatripathy789@gmail.com" target="_blank">
+            <a href="supradatripathy789@gmail.com">
               <FaEnvelope size={50} />
             </a>
-            <a
-              href="https://www.linkedin.com/in/suprada-tripathy-2981a1201/"
-              target="_blank"
-            >
+            <a href="https://www.linkedin.com/in/suprada-tripathy-2981a1201/">
               <FaLinkedinIn size={50} />
             </a>
           </div>
